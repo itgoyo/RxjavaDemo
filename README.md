@@ -42,3 +42,5 @@ Observable.create(new ObservableOnSubscribe<TianGouBean>() {
                 });
 
 ```
+
+![](http://omvbl46i3.bkt.clouddn.com/17-6-15/48432287.jpg)
